@@ -7,10 +7,10 @@ This repository stores the MATLAB implementation of the method described in
 > [Sen Wang](https://www.imperial.ac.uk/people/sen.wang)
 >
 > In *BMVC*, 2022
-> 
-> [PDF](https://bmvc2022.mpi-inf.mpg.de/0394.pdf)
-> 
-> [Video Presentation](https://youtu.be/3Bfgu3Lg8W4)
+
+[PDF](https://bmvc2022.mpi-inf.mpg.de/0394.pdf)
+
+[Video presentation](https://youtu.be/3Bfgu3Lg8W4)
 
 ![](assets/teaser.gif)
 
