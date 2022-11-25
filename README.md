@@ -6,7 +6,9 @@ This repository stores the MATLAB implementation of the method described in
 > [Andrew Wallace](https://home.eps.hw.ac.uk//~ceeamw/andy.html) and 
 > [Sen Wang](https://www.imperial.ac.uk/people/sen.wang)
 >
-> LINK TO THE PAPER TO COME
+> In *BMVC*, 2022
+> 
+> [PDF](https://bmvc2022.mpi-inf.mpg.de/0394.pdf)
 
 ![](assets/teaser.gif)
 
