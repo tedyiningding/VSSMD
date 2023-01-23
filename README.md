@@ -10,6 +10,8 @@ This repository stores the MATLAB implementation of the method described in
 
 [PDF](https://bmvc2022.mpi-inf.mpg.de/0394.pdf)
 
+[Supplementary material](https://bmvc2022.mpi-inf.mpg.de/0394_supp.zip)
+
 [Video presentation](https://youtu.be/3Bfgu3Lg8W4)
 
 ![](assets/teaser.gif)
