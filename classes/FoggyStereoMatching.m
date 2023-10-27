@@ -276,7 +276,7 @@ classdef FoggyStereoMatching
                 Gp = obj.operator_G(p);
 
                 % primal updates
-                z = z - tau*(L + 1/theta*weights.*(z+u_tilde-a) + operator_Dadj(Gp) + operator_Dadj(r));
+                z = z - tau*(L + 1/theta*weights.*(z+u_tilde-a) + operator_Dadj(Gp+r));
                 z = project_box(z, -u_tilde, 1-u_tilde);
 
                 v = v - tau*(-Gp + operator_Jadj(q));
