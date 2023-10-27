@@ -1,5 +1,5 @@
 function Jadj_u = operator_Jadj(u)
-% applies the negative divegence operator (i.e. the adjoint of the gradient operator) with Dirichlet boundary condition
+% applies the negative divergence operator (i.e. the adjoint of the gradient operator) with Dirichlet boundary condition
 % a mapping from (H-by-W-by-4) to (H-by-W-by-2)
     Jadj_u = cat(3,...
 		         -[u(:, 1, 1), diff(u(:, 1:end-1, 1), 1, 2), -u(:, end-1, 1)] ...
