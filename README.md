@@ -1,6 +1,6 @@
 # Variational Simultaneous Stereo Matching and Defogging in Low Visibility
 This repository stores the MATLAB implementation of the method described in
-> **Variational Simultaneous Stereo Matching and Defogging in Low Visibility**
+> [**Variational Simultaneous Stereo Matching and Defogging in Low Visibility**](https://bmvc2022.mpi-inf.mpg.de/394/)
 >
 > [Yining (Ted) Ding](https://www.edinburgh-robotics.org/students/ted-ding), 
 > [Andrew Wallace](https://home.eps.hw.ac.uk//~ceeamw/andy.html) and 
@@ -8,9 +8,11 @@ This repository stores the MATLAB implementation of the method described in
 >
 > In *BMVC*, 2022
 
-[PDF](https://bmvc2022.mpi-inf.mpg.de/0394.pdf)
+[Paper](https://bmvc2022.mpi-inf.mpg.de/0394.pdf)
 
 [Supplementary material](https://bmvc2022.mpi-inf.mpg.de/0394_supp.zip)
+
+[Poster](https://bmvc2022.mpi-inf.mpg.de/0394_poster.pdf)
 
 [Video presentation](https://youtu.be/3Bfgu3Lg8W4)
 
